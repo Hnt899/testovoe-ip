@@ -1,0 +1,98 @@
+[
+  {
+    "id": "A1B2",
+    "route": "Москва — Санкт-Петербург",
+    "date": "2025-10-20T06:45:00Z",
+    "passenger": "Иванов И.И.",
+    "amount": 4590,
+    "status": "PAID"
+  },
+  {
+    "id": "C3D4",
+    "route": "Казань — Москва",
+    "date": "2025-10-21T09:30:00Z",
+    "passenger": "Петров П.П.",
+    "amount": 3890,
+    "status": "PENDING"
+  },
+  {
+    "id": "E5F6",
+    "route": "Новосибирск — Омск",
+    "date": "2025-10-22T12:15:00Z",
+    "passenger": "Сидорова А.В.",
+    "amount": 2750,
+    "status": "PAID"
+  },
+  {
+    "id": "G7H8",
+    "route": "Екатеринбург — Пермь",
+    "date": "2025-10-23T15:00:00Z",
+    "passenger": "Кузнецов М.С.",
+    "amount": 3120,
+    "status": "CANCELLED"
+  },
+  {
+    "id": "I9J0",
+    "route": "Ростов-на-Дону — Сочи",
+    "date": "2025-10-24T18:20:00Z",
+    "passenger": "Лебедева Н.К.",
+    "amount": 5420,
+    "status": "PAID"
+  },
+  {
+    "id": "K1L2",
+    "route": "Самара — Нижний Новгород",
+    "date": "2025-10-25T05:50:00Z",
+    "passenger": "Волков Д.Л.",
+    "amount": 2980,
+    "status": "PENDING"
+  },
+  {
+    "id": "M3N4",
+    "route": "Краснодар — Москва",
+    "date": "2025-10-26T08:10:00Z",
+    "passenger": "Зайцева Е.С.",
+    "amount": 6120,
+    "status": "PAID"
+  },
+  {
+    "id": "O5P6",
+    "route": "Уфа — Казань",
+    "date": "2025-10-27T11:40:00Z",
+    "passenger": "Смирнов В.Г.",
+    "amount": 3340,
+    "status": "CANCELLED"
+  },
+  {
+    "id": "Q7R8",
+    "route": "Москва — Минск",
+    "date": "2025-10-28T14:05:00Z",
+    "passenger": "Фёдоров А.А.",
+    "amount": 4850,
+    "status": "PAID"
+  },
+  {
+    "id": "S9T0",
+    "route": "Тюмень — Челябинск",
+    "date": "2025-10-29T17:25:00Z",
+    "passenger": "Ильина Т.Р.",
+    "amount": 2680,
+    "status": "PENDING"
+  },
+  {
+    "id": "U1V2",
+    "route": "Мурманск — Санкт-Петербург",
+    "date": "2025-10-30T20:45:00Z",
+    "passenger": "Громов С.Н.",
+    "amount": 5290,
+    "status": "PAID"
+  },
+  {
+    "id": "W3X4",
+    "route": "Владивосток — Хабаровск",
+    "date": "2025-10-31T23:15:00Z",
+    "passenger": "Соловьёв Б.Е.",
+    "amount": 4380,
+    "status": "CANCELLED"
+  }
+]
